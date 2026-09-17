@@ -10,6 +10,7 @@ Table of Languages:
 7. 中文
 8. 한국어
 
+IMPORTANT: FOR UNKNOWN REASONS, IT WON'T LET YOU UPLOAD GAMES, SO PLEASE WAIT FOR V1.0.1 WHICH WILL FIX THIS BUG
 English:
 Table of contents:
 Chapter 1: Setting Up Your ScratchPlay
