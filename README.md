@@ -17,7 +17,7 @@ Step 2: Click Copy Link.
 Step 3: Click Copy embed
 
 Chapter 3: Game Keys.
-These are the 9 mandatory keys needed to play games. You'll need these: ←, →, ↑, ↓, ⎵ (space bar), Z, X, C, V.
+These are the 14 buttons you use: D-Pad (Up, down, left, & right), A (Space), B (Z), C (F), X (C), Y (X), Z (G), L (Q), & R (R).
 
 Chapter 4: Coming Soon
 Scratch The Video Game: A fun little platformer based on Scratch 3.0 Show The Movie. Coming June of 2027 for the ScratchPlay.
